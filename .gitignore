@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+
+# Игнорировать все файлы в папке data
+data/*
+!data/.gitignore
